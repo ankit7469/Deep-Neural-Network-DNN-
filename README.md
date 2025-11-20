@@ -84,3 +84,5 @@ plt.xlabel("Epochs")
 plt.ylabel("Value")
 plt.title("Training Progress")
 plt.grid(True)
+
+ ## Author - Ankit kashyap
